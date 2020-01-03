@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichMich/MagicMirror.git"
+    "url": "git+https://github.com/dverb20/MagicMirror.git"
   },
   "keywords": [
     "magic mirror",
@@ -61,7 +61,7 @@
   "dependencies": {
     "colors": "^1.1.2",
     "console-stamp": "^0.2.9",
-    "express": "^4.16.2",
+    "express": "^4.17.1",
     "express-ipfilter": "^1.0.1",
     "feedme": "latest",
     "helmet": "^3.21.2",
@@ -74,7 +74,7 @@
     "rrule-alt": "^2.2.8",
     "simple-git": "^1.85.0",
     "socket.io": "^2.1.1",
-    "valid-url": "latest"
+    "valid-url": "^1.0.9"
   },
   "_moduleAliases": {
     "node_helper": "js/node_helper.js"
